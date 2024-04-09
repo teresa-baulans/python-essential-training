@@ -5,6 +5,7 @@ npm-debug.log
 .ipynb_checkpoints
 Untitled.ipynb
 Github_token.rtf
+exercise_files/.ipynb_checkpoints
 /**/.*  # ignore all dotted files
 /**/.*/ # ignore all dotted folders
 !/.gitignore  # except `gitignore` :)
